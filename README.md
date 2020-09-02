@@ -1,2 +1,2 @@
 # react-tutorial
-React (with Redux) Tutorial from The Net Ninja Youtube Channel
+React (with Redux) from The Net Ninja Youtube Channel
